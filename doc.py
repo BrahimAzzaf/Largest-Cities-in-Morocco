@@ -8,7 +8,7 @@ st.header('Largest Cities in Morocco')
  
 excel_file ="Largest Cities in Morocco.xlsx"
 sheet_name ="LCM"
-Image = Image.open('images/mosque.jpg')
+Image = Image.open('images/mosque.png')
 st.image(Image,
          width=300)
 
